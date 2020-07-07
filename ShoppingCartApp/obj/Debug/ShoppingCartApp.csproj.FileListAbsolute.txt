@@ -1,0 +1,7 @@
+C:\C#\C#_Repos\source\ShoppingCartApp\ShoppingCartApp\bin\Debug\ShoppingCartApp.exe.config
+C:\C#\C#_Repos\source\ShoppingCartApp\ShoppingCartApp\bin\Debug\ShoppingCartApp.exe
+C:\C#\C#_Repos\source\ShoppingCartApp\ShoppingCartApp\bin\Debug\ShoppingCartApp.pdb
+C:\C#\C#_Repos\source\ShoppingCartApp\ShoppingCartApp\obj\Debug\ShoppingCartApp.csprojAssemblyReference.cache
+C:\C#\C#_Repos\source\ShoppingCartApp\ShoppingCartApp\obj\Debug\ShoppingCartApp.csproj.CoreCompileInputs.cache
+C:\C#\C#_Repos\source\ShoppingCartApp\ShoppingCartApp\obj\Debug\ShoppingCartApp.exe
+C:\C#\C#_Repos\source\ShoppingCartApp\ShoppingCartApp\obj\Debug\ShoppingCartApp.pdb
